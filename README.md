@@ -1,7 +1,7 @@
 # MLprototipleri
 
-Bu depo, temel makine öğrenmesi algoritmalarının Python ve NumPy üzerinden uygulanması ile ilgili çalışmalarımı kayıt altına almak amacı ile oluşturuldu
-Asıl hedef makine öğrenimi ile ilgili kütüphanelerin kullanımından ziyade matematiksel temellerin anlaşılmasıdır.
+Bu depo, temel makine öğrenmesi algoritmalarının Python ve NumPy üzerinden uygulanması ile ilgili çalışmalarımı kayıt altına almak amacı ile oluşturuldu.
+Asıl hedef, makine öğrenimi ile ilgili kütüphanelerin kullanımından ziyade matematiksel temellerin anlaşılmasıdır.
 
 ### LinearRelation.py: 
 Bu kod, temel olarak aralarında doğrusal ilişkilerin bulunduğu veri kümelerinde öğrenme gerçekleştirir. Örnek olarak girdi katmanı 3, çıktı katmanı ise 2 katmandan oluşan bir yapay sinir ağı üzerinde çalışılmıştır,
